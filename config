@@ -20,3 +20,4 @@ macos-icon = blueprint
 # shaders
 # custom-shader = shaders/bloom.glsl
 # custom-shader = shaders/sparks-from-fire.glsl
+custom-shader = shaders/cursor-smear.glsl
