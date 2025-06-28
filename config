@@ -16,3 +16,7 @@ background-blur-radius = 10
 # window
 macos-titlebar-style = hidden
 macos-icon = blueprint 
+
+# shaders
+# custom-shader = shaders/bloom.glsl
+# custom-shader = shaders/sparks-from-fire.glsl
